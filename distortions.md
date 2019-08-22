@@ -4,6 +4,7 @@
 |---|---|
 |Barrel Distortion|<img width="400" src="./static/images/barrel.png">|
 |Pincushion Distortion|<img width="400" src="./static/images/pincushion.png">|
-|Rotation||
-|Shear||
-|Prospective||
+|Rotation|<img width="400" src="./static/images/rotation.png">|
+|Shear|<img width="400" src="./static/images/shear.png">|
+|Prospective|<img width="400" src="./static/images/perspective.png">|
+|Wave|<img width="400" src="./static/images/wave.png">|
