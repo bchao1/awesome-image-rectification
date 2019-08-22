@@ -2,5 +2,8 @@
 ## Different Kinds of Image Distortions
 |Type|Example|
 |---|---|
-|Barrel Distortion|![barrel](/static/images/barrel.png)|
-|Pincushion Distortion|![pincushion](/static/images/pincushion.png)|
+|Barrel Distortion|<img width="400" src="./static/images/barrel.png">|
+|Pincushion Distortion|<img width="400" src="./static/images/pincushion.png">|
+|Rotation||
+|Shear||
+|Prospective||
