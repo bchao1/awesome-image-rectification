@@ -26,6 +26,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Rolling-Shutter-Aware Differential SfM and Image Rectification|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.pdf)|ICCV '17|Rolling shutter artifact correction|
 |From Bows to Arrows: Rolling Shutter Rectification of Urban Scenes|[Link](http://openaccess.thecvf.com/content_cvpr_2016/papers/Rengarajan_From_Bows_to_CVPR_2016_paper.pdf)|CVPR '16|Rolling shutter artifact correction|
 |Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration|[Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)|CVPR '15|Fish eye distortion|
+|Lens Distortion Rectification using Triangulation based Interpolation|[Link](https://arxiv.org/pdf/1611.09559.pdf)|ISVC '15|Lens distortion|
 
 ## Datasets
 |Paper|Paper Link|Dataset Link|Synthesized|Annotations|
