@@ -1,5 +1,6 @@
 # Awesome Distortion Correction
 A curated list of image distortion corretion papers.
+
 ## Deep Learning Based
 |Paper|Supervised|Link|Conference|Notes|
 |---|---|---|---|---|
@@ -15,3 +16,10 @@ A curated list of image distortion corretion papers.
 |Paper|Paper Link|Dataset Link|Synthesized|
 |---|---|---|---|
 |Parameterized Synthetic Image Data Set for Fisheye Lens|[Link](https://arxiv.org/pdf/1811.04627.pdf)|[Link]( http://www2.leuphana.de/misl/fisheye-data-set/)|Yes|
+
+## Related Papers
+|Paper|Link|Conference|
+|---|---|---|
+|Deep Single Image Camera Calibration with Radial Distortion|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)|CVPR '19|
+|Parameter-free Lens Distortion Calibration of Central Cameras|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bergamasco_Parameter-Free_Lens_Distortion_ICCV_2017_paper.pdf)|ICCV '17|
+|Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion|[Link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)|CVPR '17|
