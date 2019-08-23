@@ -28,9 +28,10 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration|[Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)|CVPR '15|Fish eye distortion|
 
 ## Datasets
-|Paper|Paper Link|Dataset Link|Synthesized|
-|---|---|---|---|
+|Paper|Paper Link|Dataset Link|Synthesized|Annotations|
+|---|---|---|---|---|
 |Parameterized Synthetic Image Data Set for Fisheye Lens|[Link](https://arxiv.org/pdf/1811.04627.pdf)|[Link]( http://www2.leuphana.de/misl/fisheye-data-set/)|Yes|
+|Learning to Calibrate Straight Lines for Fisheye Image Rectification|[Link](https://arxiv.org/pdf/1904.09856.pdf)||No|Distortion parameters and distorted lines|
 
 ## Papers on Camera Calibration
 |Paper|Link|Conference|
