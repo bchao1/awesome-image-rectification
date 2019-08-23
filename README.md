@@ -15,8 +15,11 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Learning to Calibrate Straight Lines for Fisheye Image Rectification||[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf)|CVPR '19|Fish eye distortion, straight line calibration|
 |Symmetry-constrained Rectification Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1908.01957.pdf)|ICCV '19|Scene text distortion|
 |FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
+|MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1901.03003.pdf)||Scene text distortion|
 |GridFace: Face Rectification via Learning Local Homography Transformations||[Link](https://arxiv.org/pdf/1808.06210.pdf)|ECCV '18|Face rectification|
 |Fingerprint Distortion Rectification using Deep Convolutional Neural Networks||[Link](https://arxiv.org/pdf/1801.01198.pdf)|ICB '18|Fingerprint distortion|
+|Deep View Morphing||[Link](https://arxiv.org/pdf/1703.02168.pdf)|CVPR '17|3D view morphing|
+|Robust Scene Text Recognition with Automatic Rectification||[Link](https://arxiv.org/pdf/1603.03915.pdf)|CVPR '16|Scene text distortion|
 |Radial Lens Distortion Correction Using Convolutional Neural Networks Trained with Synthesized Images|||ACCV '16|Radial lens distortion|
 
 ## Computer Graphics Based
@@ -28,6 +31,9 @@ A curated list of image rectification (distortion correction) and camera calibra
 |From Bows to Arrows: Rolling Shutter Rectification of Urban Scenes|[Link](http://openaccess.thecvf.com/content_cvpr_2016/papers/Rengarajan_From_Bows_to_CVPR_2016_paper.pdf)|CVPR '16|Rolling shutter artifact correction|
 |Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration|[Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)|CVPR '15|Fish eye distortion|
 |Lens Distortion Rectification using Triangulation based Interpolation|[Link](https://arxiv.org/pdf/1611.09559.pdf)|ISVC '15|Lens distortion|
+|Radially-Distorted Conjugate Translations|[Link](https://arxiv.org/pdf/1711.11339.pdf)||Radial distortion|
+|Pixel-variant Local Homography for Fisheye Stereo Rectification Minimizing Resampling Distortion|[Link](https://arxiv.org/pdf/1707.03775.pdf)||Radial Distortion|
+|Rectification from Radially-Distorted Scales|[Link](https://arxiv.org/pdf/1807.06110.pdf)||Radial distortion|
 
 ## Datasets
 |Paper|Paper Link|Dataset Link|Synthesized|Annotations|
