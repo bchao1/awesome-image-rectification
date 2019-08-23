@@ -11,7 +11,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Paper|Supervised|Link|Conference|Notes|
 |---|---|---|---|---|
 |Blind Geometric Distortion Correction on Images Through Deep Learning|Yes|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Blind_Geometric_Distortion_Correction_on_Images_Through_Deep_Learning_CVPR_2019_paper.pdf)|CVPR '19|Parameterized distortions (barrel, pincushion, and etc)|
-|FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)||Fish eye distortion, predicts camera model parameters|
+|FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
 |Learning to Calibrate Straight Lines for Fisheye Image Rectification||[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf)|CVPR '19|Fish eye distortion, straight line calibration|
 |Radial Lens Distortion Correction Using Convolutional Neural Networks Trained with Synthesized Images|||ACCV '16|Radial lens distortion|
 
