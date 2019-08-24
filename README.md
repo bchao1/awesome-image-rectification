@@ -14,6 +14,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification||[Link](https://arxiv.org/pdf/1812.05824.pdf)|CVPR '19|Scene text distortion|
 |Learning to Calibrate Straight Lines for Fisheye Image Rectification||[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf)|CVPR '19|Fish eye distortion, straight line calibration|
 |Symmetry-constrained Rectification Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1908.01957.pdf)|ICCV '19|Scene text distortion|
+|DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time|Yes|[Link](https://ieeexplore.ieee.org/document/8636975)|IEEE Transactions on Circuits and Systems for Video Technology'19|Conditional GAN . Learn the mapping between distorted and clean images.No hand-crafted technique.|
 |FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
 |MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1901.03003.pdf)||Scene text distortion|
 |GridFace: Face Rectification via Learning Local Homography Transformations||[Link](https://arxiv.org/pdf/1808.06210.pdf)|ECCV '18|Face rectification|
