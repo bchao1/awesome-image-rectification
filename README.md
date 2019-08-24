@@ -31,8 +31,10 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Rolling-Shutter-Aware Differential SfM and Image Rectification|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.pdf)|ICCV '17|Rolling shutter artifact correction|
 |From Bows to Arrows: Rolling Shutter Rectification of Urban Scenes|[Link](http://openaccess.thecvf.com/content_cvpr_2016/papers/Rengarajan_From_Bows_to_CVPR_2016_paper.pdf)|CVPR '16|Rolling shutter artifact correction|
 |Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration|[Link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Line-Based_Multi-Label_Energy_2015_CVPR_paper.pdf)|CVPR '15|Fish eye distortion|
+|Radial lens distortion correction using cascaded one-parameter division model|[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7351478)|ICIP '15|Radial distortion|
 |Lens Distortion Rectification using Triangulation based Interpolation|[Link](https://arxiv.org/pdf/1611.09559.pdf)|ISVC '15|Lens distortion|
 |Radial distortion correction from a single image of a planar calibration pattern using convex optimization|[Link](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569891193.pdf)|ICIP '14|Radial distortion|
+|Unsupervised Intrinsic Calibration from a Single Frame Using a "Plumb-Line" Approach|[Link](https://www.researchgate.net/publication/258385936_Unsupervised_Intrinsic_Calibration_from_a_Single_Frame_Using_a_Plumb-Line_Approach)|ICCV '13|Line detection approach|
 |Radially-Distorted Conjugate Translations|[Link](https://arxiv.org/pdf/1711.11339.pdf)||Radial distortion|
 |Pixel-variant Local Homography for Fisheye Stereo Rectification Minimizing Resampling Distortion|[Link](https://arxiv.org/pdf/1707.03775.pdf)||Radial Distortion|
 |Rectification from Radially-Distorted Scales|[Link](https://arxiv.org/pdf/1807.06110.pdf)||Radial distortion|
