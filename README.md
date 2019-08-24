@@ -38,6 +38,8 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Radially-Distorted Conjugate Translations|[Link](https://arxiv.org/pdf/1711.11339.pdf)||Radial distortion|
 |Pixel-variant Local Homography for Fisheye Stereo Rectification Minimizing Resampling Distortion|[Link](https://arxiv.org/pdf/1707.03775.pdf)||Radial Distortion|
 |Rectification from Radially-Distorted Scales|[Link](https://arxiv.org/pdf/1807.06110.pdf)||Radial distortion|
+|**Auto- matic lens distortion correction using one-parameter division models**|[Link](https://pdfs.semanticscholar.org/85be/954dcea4cdebbfbee55143a6e605ad813b45.pdf)||Radial distortion|
+|**Automatic Radial Distortion Estimation from a Single Image**|[Link](http://www.cs.ait.ac.th/vgl/faisal/paper/JMIV-Paper.pdf)||Radial Distortion|
 
 ## Datasets
 |Paper|Paper Link|Dataset Link|Synthesized|Annotations|
