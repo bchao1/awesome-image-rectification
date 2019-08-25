@@ -6,7 +6,8 @@ A curated list of image rectification (distortion correction) and camera calibra
 - Graphics Based Methods
 - Datasets
 - Material
-- Related Papers
+- Related Papers on Camera Calibration
+- Related Libraries
 
 ## Deep Learning Based
 
@@ -67,5 +68,9 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Parameter-free Lens Distortion Calibration of Central Cameras|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bergamasco_Parameter-Free_Lens_Distortion_ICCV_2017_paper.pdf)|ICCV '17||
 |Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion|[Link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)|CVPR '17||
 
+## Related Libraries
+|Library|Link|Notes|
+|---|---|---|
+|Augmentor|[Link](https://github.com/mdbloice/Augmentor)|Image data augmentation by distortion|
 ## Contributing 
 PR me related papers!
