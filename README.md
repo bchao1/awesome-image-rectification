@@ -18,6 +18,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Blind Geometric Distortion Correction on Images Through Deep Learning ★|Yes|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Blind_Geometric_Distortion_Correction_on_Images_Through_Deep_Learning_CVPR_2019_paper.pdf)|CVPR '19|Parameterized distortions (barrel, pincushion, and etc)|
 |ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification||[Link](https://arxiv.org/pdf/1812.05824.pdf)|CVPR '19|Scene text distortion|
 |Learning to Calibrate Straight Lines for Fisheye Image Rectification ★||[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf)|CVPR '19|Fish eye distortion, straight line calibration|
+|Learning Structure-And-Motion-Aware Rolling Shutter Correction|Yes|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.pdf)|CVPR '19|Rolling shutter distortion|
 |Symmetry-constrained Rectification Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1908.01957.pdf)|ICCV '19|Scene text distortion|
 |DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time|Yes|[Link](https://ieeexplore.ieee.org/document/8636975)|IEEE Transactions on Circuits and Systems for Video Technology'19|Conditional GAN.Learn the mapping between distorted and clean images.No hand-crafted technique.|
 |FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification ★|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
@@ -34,6 +35,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 ## Computer Graphics Based
 |Paper|Link|Conference|Notes|
 |---|---|---|---|
+|A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection|[Link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lao_A_Robust_Method_CVPR_2018_paper.pdf)|CVPR '19|Rolling shutter distortion|
 |Distortion-Free Wide-Angle Portraits on Camera Phones|[Link](http://people.csail.mit.edu/yichangshih/wide_angle_portrait/shih_sig19.pdf)|SIGGRAPH '19|Wide-angle camera, fish eye distortion|
 |Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations|[Link](https://arxiv.org/pdf/1908.01940.pdf)|ICCV '19|Underwater image distortion|
 |Rolling-Shutter-Aware Differential SfM and Image Rectification|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhuang_Rolling-Shutter-Aware_Differential_SfM_ICCV_2017_paper.pdf)|ICCV '17|Rolling shutter artifact correction|
