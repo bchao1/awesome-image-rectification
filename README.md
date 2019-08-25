@@ -23,6 +23,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification ★|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
 |MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1901.03003.pdf)||Scene text distortion|
 |GridFace: Face Rectification via Learning Local Homography Transformations||[Link](https://arxiv.org/pdf/1808.06210.pdf)|ECCV '18|Face rectification|
+|Semantic Segmentation of Fisheye Images||[Link](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Blott_Semantic_Segmentation_of_Fisheye_Images_ECCVW_2018_paper.pdf)|ECCV '18 Workshop|Sementic segmentation for fish-eye images|
 |Distortion-aware CNNs for Spherical Images||[Link](https://www.ijcai.org/proceedings/2018/0167.pdf)|IJCAI '18|Spherical distortion|
 |Fingerprint Distortion Rectification using Deep Convolutional Neural Networks||[Link](https://arxiv.org/pdf/1801.01198.pdf)|ICB '18|Fingerprint distortion|
 |CNN-based Fisheye Image Real-Time Semantic Segmentation||[Link](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)|IEEE Intelligent Vehicles Symposium (IV) '18|Sementic segmentation on fish-eye images|
@@ -72,5 +73,6 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Library|Link|Notes|
 |---|---|---|
 |Augmentor|[Link](https://github.com/mdbloice/Augmentor)|Image data augmentation by distortion|
+
 ## Contributing 
 PR me related papers!
