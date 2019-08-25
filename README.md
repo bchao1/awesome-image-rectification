@@ -5,17 +5,21 @@ A curated list of image rectification (distortion correction) and camera calibra
 - Deep Learning Based Methods
 - Graphics Based Methods
 - Datasets
+- Material
 - Related Papers
 
 ## Deep Learning Based
+
+>★ means that it is recommended for reading.
+
 |Paper|Supervised|Link|Conference|Notes|
 |---|---|---|---|---|
-|Blind Geometric Distortion Correction on Images Through Deep Learning|Yes|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Blind_Geometric_Distortion_Correction_on_Images_Through_Deep_Learning_CVPR_2019_paper.pdf)|CVPR '19|Parameterized distortions (barrel, pincushion, and etc)|
+|Blind Geometric Distortion Correction on Images Through Deep Learning ★|Yes|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Blind_Geometric_Distortion_Correction_on_Images_Through_Deep_Learning_CVPR_2019_paper.pdf)|CVPR '19|Parameterized distortions (barrel, pincushion, and etc)|
 |ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification||[Link](https://arxiv.org/pdf/1812.05824.pdf)|CVPR '19|Scene text distortion|
-|Learning to Calibrate Straight Lines for Fisheye Image Rectification||[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf)|CVPR '19|Fish eye distortion, straight line calibration|
+|Learning to Calibrate Straight Lines for Fisheye Image Rectification ★||[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.pdf)|CVPR '19|Fish eye distortion, straight line calibration|
 |Symmetry-constrained Rectification Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1908.01957.pdf)|ICCV '19|Scene text distortion|
-|DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time|Yes|[Link](https://ieeexplore.ieee.org/document/8636975)|IEEE Transactions on Circuits and Systems for Video Technology'19|Conditional GAN . Learn the mapping between distorted and clean images.No hand-crafted technique.|
-|FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
+|DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time|Yes|[Link](https://ieeexplore.ieee.org/document/8636975)|IEEE Transactions on Circuits and Systems for Video Technology'19|Conditional GAN.Learn the mapping between distorted and clean images.No hand-crafted technique.|
+|FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification ★|Yes|[Link](https://arxiv.org/pdf/1804.04784.pdf)|ECCV '18|Fish eye distortion, predicts camera model parameters|
 |MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition||[Link](https://arxiv.org/pdf/1901.03003.pdf)||Scene text distortion|
 |GridFace: Face Rectification via Learning Local Homography Transformations||[Link](https://arxiv.org/pdf/1808.06210.pdf)|ECCV '18|Face rectification|
 |Distortion-aware CNNs for Spherical Images||[Link](https://www.ijcai.org/proceedings/2018/0167.pdf)|IJCAI '18|Spherical distortion|
@@ -49,12 +53,19 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Parameterized Synthetic Image Data Set for Fisheye Lens|[Link](https://arxiv.org/pdf/1811.04627.pdf)|[Link]( http://www2.leuphana.de/misl/fisheye-data-set/)|Yes|
 |Learning to Calibrate Straight Lines for Fisheye Image Rectification|[Link](https://arxiv.org/pdf/1904.09856.pdf)||No|Distortion parameters and distorted lines|
 
+## Material
+
+| Name                                                         | Instructor                             | Course Link                                                  | Note                                     |
+| ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| CS 131 Computer Vision: Foundations and Applications (Fall 2015-2016) | Prof. Fei-Fei Li (Stanford University) | [Link](<http://vision.stanford.edu/teaching/cs131_fall1516/>) | Cover the basic concept of camera model. |
+
 ## Papers on Camera Calibration
-|Paper|Link|Conference|
-|---|---|---|
-|Deep Single Image Camera Calibration with Radial Distortion|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)|CVPR '19|
-|Parameter-free Lens Distortion Calibration of Central Cameras|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bergamasco_Parameter-Free_Lens_Distortion_ICCV_2017_paper.pdf)|ICCV '17|
-|Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion|[Link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)|CVPR '17|
+
+|Paper|Link|Conference|Note|
+|---|---|---|---|
+|Deep Single Image Camera Calibration with Radial Distortion|[Link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lopez_Deep_Single_Image_Camera_Calibration_With_Radial_Distortion_CVPR_2019_paper.pdf)|CVPR '19|Reduce parameters from 6 to 4. Predict parameters by Simple CNN.|
+|Parameter-free Lens Distortion Calibration of Central Cameras|[Link](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bergamasco_Parameter-Free_Lens_Distortion_ICCV_2017_paper.pdf)|ICCV '17||
+|Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion|[Link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Antunes_Unsupervised_Vanishing_Point_CVPR_2017_paper.pdf)|CVPR '17||
 
 ## Contributing 
 PR me related papers!
