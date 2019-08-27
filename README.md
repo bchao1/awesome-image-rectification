@@ -32,7 +32,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |CNN-based Fisheye Image Real-Time Semantic Segmentation||[Link](http://www.robesafe.es/personal/bergasa/papers/iv2018_cnn-fisheye.pdf)|IEEE Intelligent Vehicles Symposium (IV) '18|Sementic segmentation on fish-eye images|
 |Deep View Morphing||[Link](https://arxiv.org/pdf/1703.02168.pdf)|CVPR '17|3D view morphing|
 |Robust Scene Text Recognition with Automatic Rectification||[Link](https://arxiv.org/pdf/1603.03915.pdf)|CVPR '16|Scene text distortion|
-|Radial Lens Distortion Correction Using Convolutional Neural Networks Trained with Synthesized Images|||ACCV '16|Radial lens distortion|
+|Radial Lens Distortion Correction Using Convolutional Neural Networks Trained with Synthesized Images||[Link](<https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3>)|ACCV '16|Radial lens distortion|
 
 ## Computer Graphics Based
 |Paper|Link|Conference|Notes|
