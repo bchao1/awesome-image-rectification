@@ -61,9 +61,10 @@ A curated list of image rectification (distortion correction) and camera calibra
 
 ## Material
 
-| Name                                                         | Instructor                             | Course Link                                                  | Note                                     |
-| ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| CS 131 Computer Vision: Foundations and Applications (Fall 2015-2016) | Prof. Fei-Fei Li (Stanford University) | [Link](<http://vision.stanford.edu/teaching/cs131_fall1516/>) | Cover the basic concept of camera model. |
+| Name                                                         | Course Link                                                  | Note                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
+| CS 131 Computer Vision: Foundations and Applications (Fall 2015-2016) | [Link](<http://vision.stanford.edu/teaching/cs131_fall1516/>) | Cover the basic concept of camera model. |
+| Review of Geometric Distortion Compensation in Fish-Eye Cameras | [Link](<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.4542&rep=rep1&type=pdf>) | An overview of common fish eye models.   |
 
 ## Papers on Camera Calibration
 
