@@ -3,7 +3,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 
 ## Table of Contents
 - Deep Learning Based Methods
-- Graphics Based Methods
+- Traditional Methods
 - Datasets
 - Material
 - Related Papers on Camera Calibration
@@ -34,7 +34,7 @@ A curated list of image rectification (distortion correction) and camera calibra
 |Robust Scene Text Recognition with Automatic Rectification||[Link](https://arxiv.org/pdf/1603.03915.pdf)|CVPR '16|Scene text distortion|
 |Radial Lens Distortion Correction Using Convolutional Neural Networks Trained with Synthesized Images||[Link](<https://link.springer.com/chapter/10.1007/978-3-319-54187-7_3>)|ACCV '16|Radial lens distortion|
 
-## Computer Graphics Based
+## Traditional
 |Paper|Link|Conference|Notes|
 |---|---|---|---|
 |A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection|[Link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lao_A_Robust_Method_CVPR_2018_paper.pdf)|CVPR '19|Rolling shutter distortion|
